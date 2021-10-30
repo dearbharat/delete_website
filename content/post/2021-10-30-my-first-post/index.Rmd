@@ -1,0 +1,20 @@
+---
+title: My first Post
+author: R package build
+date: '2021-10-30'
+slug: my-first-post
+categories: []
+tags: []
+---
+
+## Addition
+This is how you add two numbers in R in functional programming paradigm.
+```{r}
+'+'(4, 7)
+```
+
+```{python}
+
+print("This is is printed by Python in RMarkdown")
+```
+
